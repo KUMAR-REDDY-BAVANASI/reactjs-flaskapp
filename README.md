@@ -19,6 +19,7 @@ In the api directory, do the following.
 In the sys-stats directory, do the following.
 1. `npm install`
 2. `npm start`
+3. Visit `http://localhost:3000`
 
 ## Task 1 - Dockerize the Application
 
